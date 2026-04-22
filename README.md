@@ -1,6 +1,6 @@
 # Hi, I'm Elian
 
-Software developer with 8+ years of experience focused on building clean, efficient, and user-centered web applications.
+Software Developer | Web Infrastructure & System Performance
 
 ---
 
