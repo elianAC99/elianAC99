@@ -8,7 +8,7 @@ Software Developer | Web Infrastructure & System Performance
 
 ### Core Languages
 
-| <img src="assets/html-5-svgrepo-com.svg" width="40" height="40" /><br/>HTML | <img src="assets/css-3-svgrepo-com.svg" width="40" height="40" /><br/>CSS | <img src="assets/javascript-svgrepo-com.svg" width="40" height="40" /><br/>JavaScript | <img src="assets/typescript-icon-svgrepo-com.svg" width="40" height="40" /><br/>TypeScript |
+| <img src="assets/html-5-svgrepo-com.svg" width="40" height="40" /><br/>HTML | <img src="assets/css-3-svgrepo-com.svg" width="40" height="40" /><br/>CSS | <img src="assets/javascript-svgrepo-com.svg" width="32" height="32" /><br/>JavaScript | <img src="assets/typescript-icon-svgrepo-com.svg" width="32" height="32" /><br/>TypeScript |
 |---|---|---|---|
 
 ### Frontend Frameworks
