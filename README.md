@@ -8,7 +8,7 @@ Software developer with 8+ years of experience focused on building clean, effici
 
 ### Core Languages
 
-<img src="assets/html-5-svgrepo-com.svg" width="40" height="40" /> <img src="assets/css-3-svgrepo-com.svg" width="40" height="40" /> <img src="assets/javascript-svgrepo-com (1).svg" width="40" height="40" /> <img src="assets/typescript-svgrepo-com.svg" width="40" height="40" />
+<img src="assets/html-5-svgrepo-com.svg" width="40" height="40" /> <img src="assets/css-3-svgrepo-com.svg" width="40" height="40" /> <img src="assets/javascript-svgrepo-com.svg" width="40" height="40" /> <img src="assets/typescript-icon-svgrepo-com.svg" width="40" height="40" />
 
 ### Frontend Frameworks
 
@@ -20,7 +20,7 @@ Software developer with 8+ years of experience focused on building clean, effici
 
 ### Databases
 
-<img src="assets/sql-database-generic-svgrepo-com.svg" width="40" height="40" /> <img src="assets/redis-svgrepo-com.svg" width="40" height="40" /> <img src="assets/mongodb-svgrepo-com (1).svg" width="40" height="40" />
+<img src="assets/sql-database-generic-svgrepo-com.svg" width="40" height="40" /> <img src="assets/redis-svgrepo-com.svg" width="40" height="40" /> <img src="assets/mongodb-svgrepo-com.svg" width="40" height="40" />
 
 ---
 
