@@ -26,9 +26,7 @@ Software developer with 8+ years of experience focused on building clean, effici
 
 ## About
 
-I'm a full-stack developer focused on writing clean, maintainable code and building efficient user experiences. My approach prioritizes simplicity and performance, ensuring that every line of code serves a purpose and every interaction feels smooth.
-
-I work with modern web technologies to create applications that are both powerful and pleasant to use. I believe that great software comes from understanding users' needs and delivering solutions that just work.
+Software Developer specializing in web infrastructure and digital services. I build scalable applications with a focus on efficiency and practical implementation. Linux enthusiast and Neovim power user.
 
 ---
 
