@@ -8,27 +8,27 @@ Software developer with 8+ years of experience focused on building clean, effici
 
 ### Core Languages
 
-<img src="assets/html-5-svgrepo-com.svg" width="40" height="40" /> HTML
-<img src="assets/css-3-svgrepo-com.svg" width="40" height="40" /> CSS
-<img src="assets/javascript-svgrepo-com (1).svg" width="40" height="40" /> JavaScript
-<img src="assets/typescript-svgrepo-com.svg" width="40" height="40" /> TypeScript
+<img src="assets/html-5-svgrepo-com.svg" width="40" height="40" />
+<img src="assets/css-3-svgrepo-com.svg" width="40" height="40" />
+<img src="assets/javascript-svgrepo-com (1).svg" width="40" height="40" />
+<img src="assets/typescript-svgrepo-com.svg" width="40" height="40" />
 
 ### Frontend Frameworks
 
-<img src="assets/react-svgrepo-com.svg" width="40" height="40" /> React
-<img src="assets/nextjs-icon-svgrepo-com.svg" width="40" height="40" /> Next.js
-<img src="assets/angular-svgrepo-com.svg" width="40" height="40" /> Angular
+<img src="assets/react-svgrepo-com.svg" width="40" height="40" />
+<img src="assets/nextjs-icon-svgrepo-com.svg" width="40" height="40" />
+<img src="assets/angular-svgrepo-com.svg" width="40" height="40" />
 
 ### Backend Runtime
 
-<img src="assets/node-js-svgrepo-com.svg" width="40" height="40" /> Node.js
-<img src="assets/express-svgrepo-com.svg" width="40" height="40" /> Express
+<img src="assets/node-js-svgrepo-com.svg" width="40" height="40" />
+<img src="assets/express-svgrepo-com.svg" width="40" height="40" />
 
 ### Databases
 
-<img src="assets/sql-database-generic-svgrepo-com.svg" width="40" height="40" /> SQL
-<img src="assets/redis-svgrepo-com.svg" width="40" height="40" /> Redis
-<img src="assets/mongodb-svgrepo-com (1).svg" width="40" height="40" /> MongoDB
+<img src="assets/sql-database-generic-svgrepo-com.svg" width="40" height="40" />
+<img src="assets/redis-svgrepo-com.svg" width="40" height="40" />
+<img src="assets/mongodb-svgrepo-com (1).svg" width="40" height="40" />
 
 ---
 
@@ -42,17 +42,9 @@ I work with modern web technologies to create applications that are both powerfu
 
 ## Currently Learning
 
-<img src="assets/ai-ai-svgrepo-com.svg" width="40" height="40" /> AI
-<img src="assets/ai-ai-svgrepo-com.svg" width="40" height="40" /> Prompt Engineering
-<img src="assets/ai-ai-svgrepo-com.svg" width="40" height="40" /> AI Agents
-<img src="assets/ai-ai-svgrepo-com.svg" width="40" height="40" /> LLMs
+<img src="assets/ai-ai-svgrepo-com.svg" width="40" height="40" />
 
----
-
-## Connect
-
-- Open to opportunities
-- your@email.com
+Exploring how to integrate AI into web applications, focusing on prompt engineering, building AI agents, and leveraging LLMs to create intelligent solutions.
 
 ---
 
