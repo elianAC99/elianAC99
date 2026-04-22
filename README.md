@@ -6,25 +6,25 @@ Software Developer | Web Infrastructure & System Performance
 
 ## Technologies
 
-| | | | |
-|---|---|---|
-| <img src="assets/html-5-svgrepo-com.svg" width="40" height="40" /> | <img src="assets/css-3-svgrepo-com.svg" width="40" height="40" /> | <img src="assets/javascript-svgrepo-com.svg" width="40" height="40" /> | <img src="assets/typescript-icon-svgrepo-com.svg" width="40" height="40" /> |
-| **HTML** | **CSS** | **JavaScript** | **TypeScript** |
+### Core Languages
 
-| | | | |
-|---|---|---|
-| <img src="assets/react-svgrepo-com.svg" width="40" height="40" /> | <img src="assets/nextjs-icon-svgrepo-com.svg" width="40" height="40" /> | <img src="assets/angular-svgrepo-com.svg" width="40" height="40" /> | <img src="assets/tailwind-svgrepo-com.svg" width="40" height="40" /> |
-| **React** | **Next.js** | **Angular** | **Tailwind** |
+| <img src="assets/html-5-svgrepo-com.svg" width="40" height="40" /><br/>HTML | <img src="assets/css-3-svgrepo-com.svg" width="40" height="40" /><br/>CSS | <img src="assets/javascript-svgrepo-com.svg" width="40" height="40" /><br/>JavaScript | <img src="assets/typescript-icon-svgrepo-com.svg" width="40" height="40" /><br/>TypeScript |
+|---|---|---|---|
 
-| | |
-|---|
-| <img src="assets/node-js-svgrepo-com.svg" width="40" height="40" /> | <img src="assets/express-svgrepo-com.svg" width="40" height="40" /> |
-| **Node.js** | **Express** |
+### Frontend Frameworks
 
-| | | |
+| <img src="assets/react-svgrepo-com.svg" width="40" height="40" /><br/>React | <img src="assets/nextjs-icon-svgrepo-com.svg" width="40" height="40" /><br/>Next.js | <img src="assets/angular-svgrepo-com.svg" width="40" height="40" /><br/>Angular | <img src="assets/tailwind-svgrepo-com.svg" width="40" height="40" /><br/>Tailwind |
+|---|---|---|---|
+
+### Backend Runtime
+
+| <img src="assets/node-js-svgrepo-com.svg" width="40" height="40" /><br/>Node.js | <img src="assets/express-svgrepo-com.svg" width="40" height="40" /><br/>Express |
+|---|---|
+
+### Databases
+
+| <img src="assets/sql-database-generic-svgrepo-com.svg" width="40" height="40" /><br/>SQL | <img src="assets/redis-svgrepo-com.svg" width="40" height="40" /><br/>Redis | <img src="assets/mongodb-svgrepo-com.svg" width="40" height="40" /><br/>MongoDB |
 |---|---|---|
-| <img src="assets/sql-database-generic-svgrepo-com.svg" width="40" height="40" /> | <img src="assets/redis-svgrepo-com.svg" width="40" height="40" /> | <img src="assets/mongodb-svgrepo-com.svg" width="40" height="40" /> |
-| **SQL** | **Redis** | **MongoDB** |
 
 ---
 
@@ -36,7 +36,5 @@ Software Developer specializing in web infrastructure and digital services. I bu
 
 ## Currently Learning
 
-| |
+| <img src="assets/go-svgrepo-com.svg" width="40" height="40" /><br/>Go |
 |---|
-| <img src="assets/go-svgrepo-com.svg" width="40" height="40" /> |
-| **Go** |
