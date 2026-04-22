@@ -34,6 +34,4 @@ I work with modern web technologies to create applications that are both powerfu
 
 ## Currently Learning
 
-<img src="assets/ai-ai-svgrepo-com.svg" width="40" height="40" />
-
-Exploring how to integrate AI into web applications, focusing on prompt engineering, building AI agents, and leveraging LLMs to create intelligent solutions.
+<img src="assets/go-svgrepo-com.svg" width="40" height="40" />
