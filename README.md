@@ -12,7 +12,7 @@ Software Developer | Web Infrastructure & System Performance
 
 ### Frontend Frameworks
 
-<img src="assets/react-svgrepo-com.svg" width="40" height="40" /> <img src="assets/nextjs-icon-svgrepo-com.svg" width="40" height="40" /> <img src="assets/angular-svgrepo-com.svg" width="40" height="40" />
+<img src="assets/react-svgrepo-com.svg" width="40" height="40" /> <img src="assets/nextjs-icon-svgrepo-com.svg" width="40" height="40" /> <img src="assets/angular-svgrepo-com.svg" width="40" height="40" /> <img src="assets/tailwind-svgrepo-com.svg" width="40" height="40" />
 
 ### Backend Runtime
 
